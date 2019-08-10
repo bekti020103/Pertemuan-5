@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bekti Nun Ibrahim</title>
+</head>
+<body>
+    <div class="body">
+        <div class="header">
+            <h1>Header</h1>  
+        </div>
+
+        <div class="nav">
+            <nav>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Setting</a></li>
+                <li><a href="#">Notifikasi</a></li>
+            </nav>            
+        </div>
+        
+        <div class="container">
+            <div class="row">
+                <div class="sidebar">
+                    <h2>Sidebar</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique.
+                        Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. 
+                        Praesent scelerisque tortor sed accumsan convallis.
+                    </p>
+                </div>
+                <div class="content">
+                    <h2>Content</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique.
+                        Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. 
+                        Praesent scelerisque tortor sed accumsan convallis.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique.
+                        Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. 
+                        Praesent scelerisque tortor sed accumsan convallis.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique.
+                        Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. 
+                        Praesent scelerisque tortor sed accumsan convallis.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique.
+                        Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. 
+                        Praesent scelerisque tortor sed accumsan convallis.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <h4 class="text">©copyright 2019 || Bekti Nun Ibrahim</h4>
+        </div>
+    </div>
+</body>
+</html>
